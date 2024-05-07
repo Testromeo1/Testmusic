@@ -13,7 +13,7 @@ numpy
 OpsAi
 pillow==9.5.0
 psutil
-pytgcalls==1.2.9
+py-tgcalls==1.2.9
 ntgcalls
 pykeyboard
 pyrogram==2.0.106
